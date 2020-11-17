@@ -10,10 +10,9 @@
  */
 public class MainMenu {
     public static void main(String[] args) {
-        System.out.println("Hello");
         for (int i=0; i<100; i++){
             System.out.println("The current value of i is:"+i);
-            
         }
+        
     }
 }
